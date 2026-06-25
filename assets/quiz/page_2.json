@@ -1,0 +1,27 @@
+{
+  "id": "page_2",
+  "title": "Escalada do risco",
+  "description": "Continue marcando uma opção por pergunta.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Quais ações já ocorreram?",
+      "answers": [
+        { "id": "a1", "text": "Quebra de objetos ou agressividade com coisas", "points": 12 },
+        { "id": "a2", "text": "Empurrões, tapas ou contato físico agressivo", "points": 20 },
+        { "id": "a3", "text": "Perseguição, vigilância ou controle de localização", "points": 15 },
+        { "id": "a4", "text": "Isolamento de amigos e familiares", "points": 10 }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "O agressor costuma impedir suas escolhas?",
+      "answers": [
+        { "id": "b1", "text": "Sim, na roupa e aparência", "points": 10 },
+        { "id": "b2", "text": "Sim, em saídas e visitas", "points": 10 },
+        { "id": "b3", "text": "Sim, no trabalho ou estudo", "points": 15 },
+        { "id": "b4", "text": "Sim, no uso de celular e internet", "points": 15 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "page_1",
+  "title": "Sinais iniciais",
+  "description": "Marque uma opção por pergunta. Cada item soma pontos internamente.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Quais comportamentos já aconteceram no relacionamento?",
+      "answers": [
+        { "id": "a1", "text": "Humilhações ou comentários ofensivos", "points": 5 },
+        { "id": "a2", "text": "Controle de dinheiro ou gastos", "points": 10 },
+        { "id": "a3", "text": "Ciúme excessivo e acusações", "points": 5 },
+        { "id": "a4", "text": "Ameaças verbais", "points": 15 }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Em quais situações você sente medo ou pressão?",
+      "answers": [
+        { "id": "b1", "text": "Ao responder mensagens ou ligações", "points": 8 },
+        { "id": "b2", "text": "Ao sair de casa", "points": 8 },
+        { "id": "b3", "text": "Ao discordar de alguma decisão", "points": 8 },
+        { "id": "b4", "text": "Ao pedir ajuda para alguém", "points": 8 }
+      ]
+    }
+  ]
+}

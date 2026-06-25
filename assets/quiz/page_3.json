@@ -1,0 +1,27 @@
+{
+  "id": "page_3",
+  "title": "Urgência",
+  "description": "Esta etapa ajuda a identificar risco elevado e necessidade de proteção.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "O risco aumentou recentemente?",
+      "answers": [
+        { "id": "a1", "text": "Houve ameaça de morte ou ferimento grave", "points": 25 },
+        { "id": "a2", "text": "Houve ameaça com objeto ou arma", "points": 30 },
+        { "id": "a3", "text": "Houve tentativa de impedir saída ou pedido de ajuda", "points": 20 },
+        { "id": "a4", "text": "Houve perseguição após separação", "points": 20 }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Existe alguém que possa apoiar você agora?",
+      "answers": [
+        { "id": "b1", "text": "Amiga, vizinha ou familiar de confiança", "points": 0 },
+        { "id": "b2", "text": "Serviço de saúde ou assistência social", "points": 0 },
+        { "id": "b3", "text": "Nenhuma pessoa por perto no momento", "points": 10 },
+        { "id": "b4", "text": "Medo de procurar ajuda imediatamente", "points": 15 }
+      ]
+    }
+  ]
+}
